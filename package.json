@@ -1,0 +1,17 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Node.js Twitter Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Sudam Bandara\"",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  },
+  "engines": {
+    "node": "10.15.3"
+  }
+}
